@@ -12,9 +12,9 @@ Hi, I am Zhenghao You, currently an undergraduate student in Wuhan University, m
 
 Education
 ======
-B.E. - Wuhan University - Computer Science and Technology
-GPA: 86.7/100
-Grade: Senior
+B.E. - Wuhan University - Computer Science and Technology\n
+GPA: 86.7/100\n
+Grade: Senior\n
 Graduation Thesis: Standard Dress Recognition Based on Computer Vision: aiming to employ computer vision technology to automatically identify whether the workers wear required attire (In Progress)
 
 Honors
