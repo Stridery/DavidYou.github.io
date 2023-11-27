@@ -6,7 +6,7 @@ main:
   - title: "Projects"
     url: /portfolio/
 
-    - title: "Non-academics"
+  - title: "Non-academics"
     url: /teaching/  
     
   - title: "CV"
