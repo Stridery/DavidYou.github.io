@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Zhenghao You, currently an undergraduate student in Wuhan University, my major is Computer Science and Technology. My interest includes machine leaarning, computer vision, and computer graphics.
+Hi, I am Zhenghao You, currently an undergraduate student in Wuhan University, my major is Computer Science and Technology. My interest includes machine learning, computer vision, and computer graphics.
+In my free time, I was also selected in the official football team of WHU, and practise piano quite often.
 
 Education
 ======
@@ -22,7 +23,7 @@ Honors
 Awards: 2023 IDC Financial Insights Innovation Awards, 08/2023 (33/120)
 
 Research Projects
-------
+======
 Design and Optimization of Ray Tracing System (Independent Project)                              7/2022-10/2022<br>
 Supervisor: Prof. James F. O'Brien, University of California, Berkeley<br>
 ▪	Designed and implemented a fundamental light tracing system based on C++ in Visual Studio<br>
@@ -41,7 +42,7 @@ Supervisor: Prof. Yili Gong, Wuhan University<br>
 
 
 Internships
-------
+======
 PICC Property and Casualty Company Ltd., Tech Operation Dept., System Development Intern, Chengdu   6/2023-8/2023<br>
 ▪	Participated in the backend development of the ‘Cloud Ladder’ process management platform and completed three iterative development tasks for the low-code platform  <br>
 ▪	Designed and realized functions such as customizing query, automatic task scheduling strategy configuration, configuration implementation of multi-table addition, deletion, modification, and query function, and the construction of a large model to generate prompt words based on database metadata via SQL<br>
