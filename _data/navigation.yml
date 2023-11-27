@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/ 
-
-  - title: "Non-academics"
-    url: /teaching/    
+    url: /publications/   
     
   - title: "Projects"
     url: /portfolio/
+
+    - title: "Non-academics"
+    url: /teaching/  
     
   - title: "CV"
     url: /cv/
