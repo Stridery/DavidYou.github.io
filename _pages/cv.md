@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 Research Projects
 ======
 Design and Optimization of Ray Tracing System (Independent Project)                              7/2022-10/2022<br>
