@@ -2,12 +2,14 @@
 title: "Fundamental Ray Tracing Project Based on OpenGL with acceleration"
 collection: publications
 permalink: /publication/Fundamental_Ray_Tracing_Project_Based_on_OpenGL_with_acceleration
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper is about the basic logic of the system, and a detailed introduction of my acceleration plan.'
 date: 2022-12-26
-venue: 'Fundamental_Ray_Tracing_Project_Based_on_OpenGL_with_acceleration'
-paperurl: 'http://academicpages.github.io/files/游政皓终稿.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+venue: 'International Conference on Software Engineering and Machine Learning (CONF-SEML 2023)'
+paperurl: 'https://github.com/Stridery/Light_Tracing_System/blob/fb0d666ddf9c12af152c10fade3f29b7c64e6f38/%E6%B8%B8%E6%94%BF%E7%9A%93%E7%BB%88%E7%A8%BF.pdf'
+citation: ''
 ---
-This paper is about the basic logic of the system, and a detailed introduction of my acceleration plan.
 
-[Download paper here](http://academicpages.github.io/files/游政皓终稿.pdf)
+
+[Download paper here](https://github.com/Stridery/Light_Tracing_System/blob/fb0d666ddf9c12af152c10fade3f29b7c64e6f38/%E6%B8%B8%E6%94%BF%E7%9A%93%E7%BB%88%E7%A8%BF.pdf)
+
+
